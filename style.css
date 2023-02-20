@@ -1,0 +1,10 @@
+.Box{
+   
+    margin: 5%;
+    padding: 20px;
+    border: solid blue;
+    text-align: center;
+}
+.container{
+    border: dashed black;
+}
